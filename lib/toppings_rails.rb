@@ -1,0 +1,2 @@
+module ToppingsRails
+end
