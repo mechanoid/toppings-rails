@@ -7,11 +7,11 @@ require "toppings_rails/version"
 Gem::Specification.new do |s|
   s.name        = "toppings_rails"
   s.version     = ToppingsRails::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of ToppingsRails."
-  s.description = "TODO: Description of ToppingsRails."
+  s.authors       = ["Falk Hoppe, Roman Stranghöner"]
+  s.email         = ["falkhoppe81@gmail.com"]
+  s.description   = %q{rails integration for the equally named ruby gem}
+  s.summary       = %q{rails integration for the equally named ruby gem}
+  s.homepage      = ""
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
 
