@@ -5,7 +5,7 @@ require "toppings_rails/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "toppings_rails"
+  s.name        = "toppings-rails"
   s.version     = ToppingsRails::VERSION
   s.authors       = ["Falk Hoppe, Roman Stranghöner"]
   s.email         = ["falkhoppe81@gmail.com"]
